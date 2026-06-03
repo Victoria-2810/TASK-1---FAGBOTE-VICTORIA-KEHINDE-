@@ -7,12 +7,13 @@ Added currency formatting to the Price column.
 Verified and adjusted data types where necessary.
 Performed quality checks to ensure data consistency.
 
-🛠️ Tools Used
+Tools Used
 Microsoft Excel
-📊 Outcome
+
+Outcome
 The dataset is now clean, consistent, and ready for analysis and visualization.
 
-👩‍💻 Author
+Author
 VICTORIA FAGBOTE 
 
 Registered Nurse and Data Analyst passionate about transforming data into meaningful insights.
